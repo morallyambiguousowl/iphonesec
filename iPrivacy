@@ -1,0 +1,62 @@
+iPhone Privacy & Security Tweaks
+This will be less intricate and less instructions in comparison with the droidsec repository.
+None of these instructions require jailbreaking your device. While jailbreaking may provide some useful
+tools for privacy, security (typically a pro to using Apple) is reduced.
+
+For the ease of following, I'll go in chronological order from the settings.
+
+  Bluetooth - Off (unless using)
+  Cellular
+    Turn off data for any application that does not need roaming internet (ie. Calender, Music)
+  General > 
+    About > Alter the name (do not include iPhone model)
+            Diagnostics & Usage - Don't Send
+    Siri - Disable
+    Background App Refresh - Disable
+    Restrictions - Enable
+      This is optional & depends on your iTracker use-case. I do not watch TV Shows/Movies.
+      Under Allowed Content:
+        TV Shows - Don't Allow TV Shows
+        Siri - Web Search Content - Off
+        Restrict anything that you will not use.
+      Under Privacy: 
+        Location Services - Turn Off & Don't Allow Changes
+        Contacts - Don't Allow Changes (This will restrict new apps using your contacts)
+        Calendars - Don't Allow Changes
+        Reminders - Don't Allow Changes
+        Photos - Don't Allow Changes
+        Bluetooth Sharing - Don't Allow Changes
+        Microphone - Don't Allow Changes
+        Twitter - Don't Allow Changes
+        Facebook - Don't Allow Changes
+        Advertising - Limit Ad Tracking & Don't Allow Changes
+      Under Allow Changes:
+        Accounts - Don't Allow Changes
+        Cellular Data Use - Don't Allow Changes
+        Background App Refresh - Don't Allow Changes
+      Under Game Center:
+        Multiplayer Games - Off
+        Adding Friends - Off
+    Keyboard
+      Auto-Capitilization - Off
+      Auto-Correction - Off
+      Check Spelling - Off
+  Wallpapers & Brightness - Disable Auto-Brightness
+  Touch ID & Passcode
+    Set up a passcode of at least 6 digits (Do not use biometrics)
+  Privacy
+    Location Services - Off
+  iCloud - Disable Sync
+  Phone - Set up SIM Pin (Optional)
+  Safari - Don't use Safari
+        
+Applications:
+  Signal (Messenger)
+  MySudo (Generates VoIP number) (Can use for Signal Registration)
+  ProtonVPN (VPN - No logs)
+  ProtonMail (Email)
+      
+Hardware:
+  Microphone Blocker
+  Faraday Bag
+  Gorilla Tape (for cameras)
